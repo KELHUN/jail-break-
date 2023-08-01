@@ -1,0 +1,40 @@
+{
+  "Name": "<size=69><color=#b4b3ff>ПОБЕГ</color><color=#b3b2ff> ИЗ </color><color=#b2b1ff> ТЮРЬМЫ</color></size>",
+  "Description": "<B>1.3 by Kelhun.</B>\n<size=15><color=#ff0000>р</color><color=#fd0000>е</color><color=#fb0000>ж</color><color=#f90000>и</color><color=#f70000>м</color><color=#f50000> </color><color=#f30000>П</color><color=#f10000>о</color><color=#ef0000>б</color><color=#ed0000>е</color><color=#eb0000>г</color><color=#e90000> </color><color=#e70000>и</color><color=#e50000>з</color><color=#e30000> </color><color=#e10000>т</color><color=#df0000>ю</color><color=#dd0000>р</color><color=#db0000>ь</color><color=#d90000>м</color><color=#d70000>ы</color><color=#d50000>,</color><color=#d30000>ц</color><color=#d10000>е</color><color=#cf0000>л</color><color=#cd0000>ь</color><color=#cb0000>ю</color><color=#c90000> </color><color=#c70000>с</color><color=#c50000>и</color><color=#c30000>н</color><color=#c10000>и</color><color=#bf0000>х</color><color=#bd0000> </color><color=#bb0000>я</color><color=#b90000>в</color><color=#b70000>л</color><color=#b50000>я</color><color=#b30000>е</color><color=#b10000>т</color><color=#af0000>с</color><color=#ad0000>я</color><color=#ab0000> </color><color=#a90000>с</color><color=#a70000>б</color><color=#a50000>е</color><color=#a30000>ж</color><color=#a10000>а</color><color=#9f0000>т</color><color=#9d0000>ь</color><color=#9b0000> </color><color=#990000>в</color><color=#970000> </color><color=#950000> </color><color=#930000>з</color><color=#910000>о</color><color=#8f0000>н</color><color=#8d0000>у</color><color=#8b0000> </color><color=#890000>к</color><color=#870000>о</color><color=#850000>н</color><color=#830000>ц</color><color=#810000>а</color><color=#7f0000> </color><color=#7d0000>к</color><color=#7b0000>а</color><color=#790000>р</color><color=#770000>т</color><color=#750000>ы</color><color=#730000>(</color><color=#710000>t</color><color=#6f0000>a</color><color=#6d0000>g</color><color=#6b0000>s</color><color=#690000>-</color><color=#670000> </color><color=#650000>e</color><color=#630000>n</color><color=#610000>d</color><color=#5f0000>)</color><color=#5d0000> </color><color=#5b0000>з</color><color=#590000>а</color><color=#570000>д</color><color=#550000>а</color><color=#530000>ч</color><color=#510000>а</color><color=#4f0000> </color><color=#4d0000>о</color><color=#4b0000>х</color><color=#490000>р</color><color=#470000>а</color><color=#450000>н</color><color=#430000>ы</color><color=#410000> </color><color=#3f0000>н</color><color=#3d0000>е</color><color=#3b0000> </color><color=#390000>д</color><color=#370000>а</color><color=#350000>т</color><color=#330000>ь</color><color=#310000> </color><color=#2f0000>н</color><color=#2d0000>е</color><color=#2b0000> </color><color=#290000>о</color><color=#270000>д</color><color=#250000>н</color><color=#230000>о</color><color=#210000>м</color><color=#1f0000>у</color><color=#1d0000> </color><color=#1b0000>з</color><color=#190000>б</color><color=#170000>е</color><color=#150000>ж</color><color=#130000>а</color><color=#110000>т</color><color=#0f0000>ь</color><color=#0d0000>.</color><color=#0b0000> </color><color=#090000>1</color><color=#070000>.</color><color=#050000>4</color><color=#030000> </color></size>",
+  "StartClientVersion": 334,
+  "MapFilter": {
+    "IsBlank": false,
+    "HasParcourEnd": false
+  },
+  "MapLists": [
+    {
+      "MapListId": 8596,
+      "Name": "Официальные карты"
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "MapRotation",
+        "DisplayName": "GmParams/MapRotation",
+        "Default": true
+      },
+      {
+        "Name": "OnlyKnives",
+        "DisplayName": "GmParams/OnlyKnives"
+      },
+      {
+        "Name": "PartialDesruction",
+        "DisplayName": "GmParams/PartialDesruction"
+      },
+      {
+        "Name": "LoosenBlocks",
+        "DisplayName": "GmParams/LoosenBlocks"
+      },
+      {
+        "Name": "FriendlyFire",
+        "DisplayName": "GmParams/FriendlyFire"
+      }
+    ]
+  }
+}
