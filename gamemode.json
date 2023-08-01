@@ -1,6 +1,6 @@
 {
   "Name": "<size=69><color=#b4b3ff>ПОБЕГ</color><color=#b3b2ff> ИЗ </color><color=#b2b1ff> ТЮРЬМЫ</color></size>",
-  "Description": "<B>v1.0. Режим от just_qstn.</B>\n<size=15>режим Побег из тюрьмы,целью синих является сбежать в  зону конца карты(tags- end) задача охраны не дать не одному збежать. 1.4 </size>"
+  "Description": "<B> by Kelhun</B>\n<size=15>режим Побег из тюрьмы,целью синих является сбежать в  зону конца карты(tags- end) задача охраны не дать не одному збежать. 1.4 </size>"
   "StartClientVersion": 334,
   "MapFilter": {
     "IsBlank": false,
